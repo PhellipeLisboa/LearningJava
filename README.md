@@ -1,4 +1,4 @@
-# Java IA Exercises 🚀
+# Java IA Exercises ☕
 
 Este repositório contém meus estudos e exercícios gerados com o chat GPT. O foco está no desenvolvimento de habilidades sólidas em Java, lógica de programação, boas práticas e preparação para me inserir no mercado como desenvolvedor backend.
 
@@ -21,6 +21,7 @@ exercices/
       ├── LoginSystem/  
       ├── MaxOfThree/  
       └── ...
+ └──...
 ```
 
 ## 📚 Notas de estudo
@@ -35,8 +36,8 @@ Consulte a pasta [`notes/`](notes/) para ver minhas anotações ao longo do proc
 ## 📌 Progresso
 
 - [x] Lista 1: Basics
-- [ ] Lista 2: Condições e Laços
-- [ ] Lista 3: Orientação a Objetos
+- [ ] Lista 2: Arrays, loops and conditionals
+
 
 ---
 
