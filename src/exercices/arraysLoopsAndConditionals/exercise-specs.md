@@ -7,7 +7,7 @@
 
 ---
 
-### 🧪 **Exercício 1 – Diário de Treino (workoutTracker)**
+### 📝 **Exercício 1 – Diário de Treino (workoutTracker)**
 
 Peça para o usuário informar quantos dias da semana ele treinou.
 
@@ -23,7 +23,7 @@ Calcule:
 
 ---
 
-### 🧪 **Exercício 2 – Jolly Roger Crew (onePieceCrew)**
+### 📝 **Exercício 2 – Jolly Roger Crew (onePieceCrew)**
 
 Você deve cadastrar os nomes e idades de 5 tripulantes do bando.
 
@@ -37,7 +37,7 @@ Depois, exiba:
 
 ---
 
-### 🧪 **Exercício 3 – Cat Café (catMenuStats)**
+### 📝 **Exercício 3 – Cat Café (catMenuStats)**
 
 Imagine um café temático de gatos que oferece 6 tipos de cafés.
 
@@ -53,7 +53,7 @@ No fim, exiba:
 
 ---
 
-### 🧪 **Exercício 4 – Playlist Analyzer (playlistStats)**
+### 📝 **Exercício 4 – Playlist Analyzer (playlistStats)**
 
 Peça ao usuário para informar quantas músicas deseja analisar.
 
@@ -69,7 +69,7 @@ Calcule:
 
 ---
 
-### 🧪 **Exercício 5 – PetShop Rating (petShopRating)**
+### 📝 **Exercício 5 – PetShop Rating (petShopRating)**
 
 Um PetShop recebeu avaliações de 10 clientes (nota de 1 a 5).
 
