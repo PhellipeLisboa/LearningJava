@@ -17,9 +17,7 @@ Calcule:
 
 - A média de minutos por treino.
 - Qual foi o maior e o menor tempo.
-- Em quais dias ele treinou mais de 60 min.
-
-*Desafio extra:* Crie um método para calcular a média e outro para identificar os dias com treino acima da média.
+- Identificar o número de dias com treino acima da média.
 
 ---
 
